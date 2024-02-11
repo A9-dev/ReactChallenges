@@ -1,0 +1,33 @@
+main {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  background-color: #333333;
+  border-radius: 15px;
+  padding: 50px;
+  margin-top: 50px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+h1 {
+  font-size: 50px;
+  margin: 0;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+html {
+  background-color: #222222;
+}
