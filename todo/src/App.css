@@ -1,0 +1,53 @@
+* {
+  text-align: center;
+  font-family: Roboto, sans-serif;
+}
+
+html {
+  background-color: #282c34;
+  padding: 20px;
+}
+
+.todoText {
+  text-align: center;
+  word-wrap: break-word;
+  width: 80%;
+}
+button {
+  display: inline;
+  float: right;
+  margin-left: -50%;
+  margin-top: -2.5em;
+  background-color: #282c34;
+  color: white;
+  border: 0px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.todo {
+  background-color: #343a46;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  width: 40%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+h1 {
+  color: white;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 50px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  width: 40%;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
