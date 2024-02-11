@@ -2,4 +2,4 @@
 
 Programming challenges using React
 
-timer: Stopwatch/timer app
+`timer`: Stopwatch/timer app
