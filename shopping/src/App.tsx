@@ -7,7 +7,7 @@ function App() {
   const [value, setValue] = useState<number>(10);
 
   const addToSmallestQueue = (value: number) => {
-    if (value === 0) return;
+    if (value <= 0) return;
     const queueTotals = queues.map((shopper) =>
       shopper.reduce((acc, curr) => acc + curr, 0)
     );
